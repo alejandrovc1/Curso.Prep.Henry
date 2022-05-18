@@ -1,0 +1,20 @@
+Variables = Las variables son espacios de memoria que pueden almacenar distintos tipos de valores,
+pueden almacenar Strings(Cadena de texto o letras), numeros, o valores booleanos, estas variables son dinamicas,
+lo que significa que pueden cambiar su valor.
+
+Strings = Los Strings son un tipo de variable que se componen de cadenas de texto o caracteres,
+ estan encerradas entre comillas simples o dobles.
+
+Funciones = Las funciones son un trozo de codigo el cual realizan una tarea especifica, ya sea realizar una 
+accion y ya, o realizar una accion y devolver un valor posterior a su ejecucion, el return es la palabra
+reservada que se usa para especificar que se retorna un valor o una variable, los argumentos son valores 
+necesarios que se toman como parametro para ejecutar la funcion.
+
+If= Es una condicional que se utiliza y valora un valor true o false, si es true realiza una tarea, y si es 
+false realiza la siguiente.
+
+Valores booleanos = Vienen de la logica booleana y de los digitos binarios(1 y 0), estos valores booleanos son 
+true y false, (verdadero y falso.)
+
+
+

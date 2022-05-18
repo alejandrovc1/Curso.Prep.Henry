@@ -1,0 +1,12 @@
+For= For es un ciclo de repeticion el cual recibe 3 parametros, el primero recibe un nombre de una variable,
+con un valor inicial, el segundo parametro recibe la condicional que se va a evaluar en el ciclo,
+siempre que la condicional sea true, se va a realizar una iteracion, hasta que de false no va a detenerse,
+y el ultimo parametro es el incremento que va a recibir la variable.
+
+&& = Es un operador logico y significa "Y", se utiliza para comparar dos expresiones, si las dos son verdaderas
+devuelve true, de lo contrario devuelve false.
+
+|| = Es un operador logico y significa "O", se utiliza para comparar dos expresiones, si alguna de las dos son verdaderas 
+devuelve true, si ninguna de las dos es verdadera devuelve false.
+
+! = Significa negacion, se usa para negar cualquier tipo de expresion, o para decir lo contrario.

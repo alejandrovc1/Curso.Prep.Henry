@@ -1,0 +1,19 @@
+Objetos = Los objetos son un tipo de contenedor el cual nos permite almacenar atributos dentro de el, especiales
+para cada objeto. ej: objeto - persona, atributo nombre= alejandro, edad=20.
+
+Propiedades= Las propiedades o atributos son las caracteristicas especiales que tiene cada objeto y que se declaran 
+segun se requiera.
+
+Metodos= Los metodos son todas aquellas funciones que se realizan dentro de un objeto.
+
+Bucle for..in= Este bucle tiene la utilidad de realizar ciclos dentro de un objeto, permite recorrer las propiedades
+de un objeto una por una para determinado fin. 
+
+Hay dos maneras de instanciar una variable a una propiedad de un objeto, por punto o por corchetes.
+Notacion por punto:
+get = objeto.propiedad;
+objeto.propiedad = set;
+
+Notacion por corchetes:
+get = objeto[nombre_propiedad];
+objeto[nombre_propiedad] = set;

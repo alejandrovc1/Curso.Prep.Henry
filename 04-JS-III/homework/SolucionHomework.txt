@@ -1,0 +1,3 @@
+Arrays = Los arrays o arreglos som una coleccion de datos, estos arreglos nos sirven para almacenar grandes
+cantidades de datos o variables, estos arreglos pueden almacenar cualquier tipo de dato, strings, numeros o 
+booleanos.

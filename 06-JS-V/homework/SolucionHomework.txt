@@ -1,0 +1,29 @@
+Prototype= Prototype es una propiedad que nos permite asignar funciones y metodos a distintos objetos de clase,
+ahorrandonos crear metodos especiales para cada objeto, haciendonos ahorrar espacio en memoria y mejorar
+el rendimiento de nuestro programa.
+Los prototipos son un mecanismo mediante el cual los objetos en JavaScript
+heredan características y funciones entre sí.
+
+Constructors = El método constructor es un metodo especial para crear e inicializar un objeto creado a
+partir de una clase.
+
+Ej:
+class Square extends Polygon {
+  constructor(length) {
+    // Aquí, llama al constructor de la clase padre con sus longitudes
+    // contemplando la anchura y la altura del Polígono
+    super(length, length);
+    // Nota: En las clases derivadas, super() se debe llamar primero
+    // Se puede utilizar "this". Dejando esto causará un error de
+    //referencia.
+    this.name = 'Square';
+  }
+
+  get area() {
+    return this.height * this.width;
+  }
+
+  set area(value) {
+    this.area = value;
+  }
+}

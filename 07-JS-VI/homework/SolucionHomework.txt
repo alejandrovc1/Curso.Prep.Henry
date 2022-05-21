@@ -1,0 +1,2 @@
+Callbacks = Un callback son funciones que toman como parametro otras funciones, los callback a su vez pueden 
+ser usados junto a metodos de arreglos tales como .map,forEach y .reduce.
